@@ -146,6 +146,8 @@ print("Hello World")
 
 echo "Hello World"    
 
+println('Hello friend')
+
 console.log("Hey here i come world!");    
 
 cout<<"hello"<<endl;   
